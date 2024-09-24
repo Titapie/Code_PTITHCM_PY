@@ -1,1 +1,1 @@
-print("hoàng anh đẹp trai")
+print("hoàng anh ")
